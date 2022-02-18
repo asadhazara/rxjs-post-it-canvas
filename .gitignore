@@ -1,0 +1,17 @@
+# Node Dependencies
+node_modules
+
+# NextJS builded files
+.next
+
+# Any User built files
+build
+
+# System Files
+.DS_Store
+
+# local env files
+.env*
+
+# Skip example env files
+!.env.example
